@@ -772,3 +772,4 @@
 
 
 # cuGraph 0.5.0 (28 Jan 2019)
+r3 is great!
